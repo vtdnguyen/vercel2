@@ -1,0 +1,52 @@
+{
+  "name": "dev-tool",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/popover": "^2.2.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@nextui-org/react": "^2.2.9",
+    "@react-email/components": "^0.0.7",
+    "@react-email/tailwind": "^0.0.8",
+    "@react-google-maps/api": "^2.19.3",
+    "@types/node": "20.2.5",
+    "@types/react": "18.2.8",
+    "@types/react-dom": "18.2.4",
+    "apexcharts": "^3.40.0",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.6.8",
+    "clsx": "^1.2.1",
+    "eslint": "8.42.0",
+    "eslint-config-next": "13.4.4",
+    "framer-motion": "^10.18.0",
+    "next": "13.5.6",
+    "postcss": "8.4.35",
+    "react": "18.2.0",
+    "react-apexcharts": "^1.4.0",
+    "react-calendar": "^4.2.1",
+    "react-dom": "18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-google-places-autocomplete": "^4.0.1",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.9.0",
+    "react-intersection-observer": "^9.5.2",
+    "react-table": "^7.8.0",
+    "react-vertical-timeline-component": "^3.6.0",
+    "resend": "^0.16.0",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "3.3.2",
+    "tailwindcss-rtl": "^0.9.0",
+    "typescript": "5.1.3"
+  },
+  "devDependencies": {
+    "@types/react-table": "^7.7.14",
+    "@types/react-vertical-timeline-component": "^3.3.3",
+    "react-typewriter-effect": "^1.1.0"
+  }
+}
